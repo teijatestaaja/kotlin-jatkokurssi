@@ -8,3 +8,13 @@
 - Tiedät, mitä luokat voivat sisältää.
 - Tiedät mitä eroa on dataluokalla ja abstraktilla luokalla.
 - Tiedät, mitä tarkoitetaan perinnällä.
+
+## Luokkien luominen
+
+Kotlinissa luokka luodaan käyttäen avain sanaa class:
+
+```kotlin
+class Henkilo { /*...*/ }
+```
+
+Luokan määrittely koostuu luokan nimestä, luokan otsikosta ja luokan rungosta, joka on ympäröity aaltosulkeilla.
